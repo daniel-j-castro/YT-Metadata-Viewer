@@ -18,3 +18,4 @@ At this point you can test if the application works correctly by going to localh
 
 # THIS PROJECT IS CURRENTLY DEPLOYED ON HEROKU
 https://lsdm-yt-data.herokuapp.com/
+## If website is not functioning, it is because the DB is down and needs to be recreated due to hosting
